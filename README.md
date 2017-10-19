@@ -1,4 +1,4 @@
-# WEBdeLDN: Code of Conduct
+# WEBdeBS: Code of Conduct
 
 All attendees, speakers, sponsors and volunteers at our meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
@@ -31,7 +31,7 @@ We expect participants to follow these rules during the meetup and and the meetu
 
 ## Reporting violations
 
-We take our code of conduct seriously! Please report any potential violations to one of the organizers in person or send an email to [webdeldn@gmail.com](mailto:webdeldn@gmail.com).
+We take our code of conduct seriously! Please report any potential violations to one of the organizers in person or send an email to [admin@webdebs.org](mailto:admin@webdebs.org).
 
 All complaints will be investigated immediately. If the person reporting the incident wishes, the organizers will provide updates how how the complaint is being dealt with.
 
