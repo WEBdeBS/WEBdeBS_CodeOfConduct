@@ -28,16 +28,16 @@ Lo staff sarà lieto di aiutare i partecipanti a contattare la sicurezza della s
 
 Ci aspettiamo che i partecipanti seguano queste regole durante la riunione e gli eventi sociali connessi.
 
-## Reporting violations
+## Segnalare violazioni
 
-We take our code of conduct seriously! Please report any potential violations to one of the organizers in person or send an email to [admin@webdebs.org](mailto:admin@webdebs.org).
+Prendiamo seriamente il nostro codice di condotta! Si prega di segnalare eventuali violazioni potenziali a uno degli organizzatori in persona o inviare un'e-mail a [admin@webdebs.org] (mailto: admin@webdebs.org).
 
-All complaints will be investigated immediately. If the person reporting the incident wishes, the organizers will provide updates how how the complaint is being dealt with.
+Tutte le segnalazioni verranno gestite immediatamente. Se la persona che riferisce l'incidente lo desidera, gli organizzatori le forniranno aggiornamenti su come viene trattata la situazione.
 
-## License and attribution
+## Licenza and attribuzione
 
-As modified from [confcodeofconduct.com](confcodeofconduct.com)
+versione modificata da [confcodeofconduct.com](confcodeofconduct.com)
 
-Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+Fonte originale: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 
-This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)
+Materiale con licenza [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)
