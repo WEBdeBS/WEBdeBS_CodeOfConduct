@@ -14,19 +14,19 @@ Non tolleriamo le molestie ai partecipanti in qualsiasi forma. Un linguaggio  e 
 
 ## Versione meno breve
 
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Per  molestie si intendono commenti offensivi verbali relativi a sesso, identità e espressione di genere, età, orientamento sessuale, disabilità, aspetto fisico, dimensione corporea, razza, etnia, religione, scelte tecnologiche, immagini sessuali negli spazi pubblici, intimidazione deliberata, stalking,   fotografare o filmare senza il consenso del soggetto ripreso, un contatto fisico inappropriato e un'attenzione sessuale inaccettabile.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Ci si aspetta che ai partecipanti a cui sia chiesto di interrompere qualsiasi comportamento di molestia ubbidiscano immediatamente.
 
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
+Anche gli sponsor sono soggetti alla politica anti-molestia. In particolare, gli sponsor non dovrebbero utilizzare immagini a sfondo sessuale o altro materiale. 
 
-If a participant engages in harassing behavior, the organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup with no refund.
+Se un partecipante con il suo comportamento viol il presente codice, gli organizzatori possono intraprendere qualsiasi azione ritenuta appropriata, incluso l'ammonimento o l'espulsione dalla riunione senza alcun rimborso.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of meetup staff immediately. The staff can be identified as they'll be wearing branded clothing and/or badges.
+Se venite molestati o notate che qualcun altro è stato molestato contatta immediatamente un membro dello staff presente dell'incontro. Il personale può essere identificato in quanto indossa un abbigliamento distintivo ( pipicamente una maglietta ) e / o badge.
 
-The staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.
+Lo staff sarà lieto di aiutare i partecipanti a contattare la sicurezza della struttura o le forze dell'ordine,  o allontanare coloro che provocano molestie:  sentirsi al sicuro per tutta la durata del meeting è un diritto. Appreziamo la tua presenza.
 
-We expect participants to follow these rules during the meetup and and the meetup-related social events.
+Ci aspettiamo che i partecipanti seguano queste regole durante la riunione e gli eventi sociali connessi.
 
 ## Reporting violations
 
