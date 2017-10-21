@@ -30,7 +30,7 @@ Ci aspettiamo che i partecipanti seguano queste regole durante la riunione e gli
 
 ## Segnalare violazioni
 
-Prendiamo seriamente il nostro codice di condotta! Si prega di segnalare eventuali violazioni potenziali a uno degli organizzatori in persona o inviare un'e-mail a [admin@webdebs.org] (mailto: admin@webdebs.org).
+Prendiamo seriamente il nostro codice di condotta! Si prega di segnalare eventuali violazioni potenziali a uno degli organizzatori in persona o inviare un'e-mail a [admin@webdebs.org](mailto: admin@webdebs.org).
 
 Tutte le segnalazioni verranno gestite immediatamente. Se la persona che riferisce l'incidente lo desidera, gli organizzatori le forniranno aggiornamenti su come viene trattata la situazione.
 
