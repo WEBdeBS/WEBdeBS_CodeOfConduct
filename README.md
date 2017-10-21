@@ -1,19 +1,18 @@
-# WEBdeBS: Code of Conduct
+# WEBdeBS: Codice di condotta
 
-All attendees, speakers, sponsors and volunteers at our meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
-
+Tutti i partecipanti, i relatori, gli sponsor e i volontari al nostro incontro sono tenuti ad accettare il seguente codice di condotta. Gli organizzatori faranno rispettare questo codice durante tutto l'evento. Ci aspettiamo che tutti i partecipanti collaborino per garantire un ambiente sicuro per tutti.
 
 ## TL;DR:
 
 ***Be excellent with each other*** (a.k.a. "Don’t be a Jerk")
 
-## The Quick Version
+## Versione breve
 
-Our meetup is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
+I nostri incontri sono dedicati a fornire un'esperienza priva di molestie per tutti, indipendentemente dal sesso, dall'identità e dall'espressione del genere, dall'età, dall'orientamento sessuale, dalla disabilità, dall'aspetto fisico, dalla dimensione corporea, dalla razza, dall'etnia, dalla religione (o dalla mancanza di essa ) o scelte o competenze tecnologiche.
 
-We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any meetup venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the meetup without a refund at the discretion of the organisers.
+Non tolleriamo le molestie ai partecipanti in qualsiasi forma. Un linguaggio  e le immagini con esplicite allusioni sessuali e non sono adatti a qualsiasi incontro, inclusi colloquio, workshop, feste, stato su Twitter e altri media online. I partecipanti che violano queste regole possono essere sanzionati o espulsi dalla riunione senza alcun rimborso a discrezione degli organizzatori.
 
-## The Less Quick Version
+## Versione meno breve
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
