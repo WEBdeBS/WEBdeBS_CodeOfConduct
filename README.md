@@ -22,7 +22,7 @@ Anche gli sponsor sono soggetti alla politica anti-molestia. In particolare, gli
 
 Se un partecipante con il suo comportamento viol il presente codice, gli organizzatori possono intraprendere qualsiasi azione ritenuta appropriata, incluso l'ammonimento o l'espulsione dalla riunione senza alcun rimborso.
 
-Se venite molestati o notate che qualcun altro è stato molestato contatta immediatamente un membro dello staff presente dell'incontro. Il personale può essere identificato in quanto indossa un abbigliamento distintivo ( pipicamente una maglietta ) e / o badge.
+Se venite molestati o notate che qualcun altro è stato molestato contatta immediatamente un membro dello staff presente dell'incontro. Il personale può essere identificato in quanto indossa un abbigliamento distintivo  e / o badge.
 
 Lo staff sarà lieto di aiutare i partecipanti a contattare la sicurezza della struttura o le forze dell'ordine,  o allontanare coloro che provocano molestie:  sentirsi al sicuro per tutta la durata del meeting è un diritto. Appreziamo la tua presenza.
 
