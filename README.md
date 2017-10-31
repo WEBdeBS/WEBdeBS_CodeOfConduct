@@ -10,13 +10,13 @@ Tutti i partecipanti, i relatori, gli sponsor e i volontari al nostro incontro s
 
 I nostri incontri sono dedicati a fornire un'esperienza priva di molestie per tutti, indipendentemente dal sesso, dall'identità e dall'espressione del genere, dall'età, dall'orientamento sessuale, dalla disabilità, dall'aspetto fisico, dalla dimensione corporea, dalla razza, dall'etnia, dalla religione (o dalla mancanza di essa ) o scelte o competenze tecnologiche.
 
-Non tolleriamo le molestie ai partecipanti in qualsiasi forma. Un linguaggio  e le immagini con esplicite allusioni sessuali e non sono adatti a qualsiasi incontro, inclusi colloquio, workshop, feste, stato su Twitter e altri media online. I partecipanti che violano queste regole possono essere sanzionati o espulsi dalla riunione senza alcun rimborso a discrezione degli organizzatori.
+Non tolleriamo le molestie ai partecipanti in qualsiasi forma. Un linguaggio  e immagini con esplicite allusioni sessuali e non sono adatti a qualsiasi incontro, inclusi colloquio, workshop, feste, stato su Twitter e altri media online. I partecipanti che violano queste regole possono essere sanzionati o espulsi dalla riunione senza alcun rimborso a discrezione degli organizzatori.
 
 ## Versione meno breve
 
 Per  molestie si intendono commenti offensivi verbali relativi a sesso, identità e espressione di genere, età, orientamento sessuale, disabilità, aspetto fisico, dimensione corporea, razza, etnia, religione, scelte tecnologiche, immagini sessuali negli spazi pubblici, intimidazione deliberata, stalking,   fotografare o filmare senza il consenso del soggetto ripreso, un contatto fisico inappropriato e un'attenzione sessuale inaccettabile.
 
-Ci si aspetta che ai partecipanti a cui sia chiesto di interrompere qualsiasi comportamento di molestia ubbidiscano immediatamente.
+Ci si aspetta che i partecipanti a cui sia chiesto di interrompere qualsiasi comportamento di molestia ubbidiscano immediatamente.
 
 Anche gli sponsor sono soggetti alla politica anti-molestia. In particolare, gli sponsor non dovrebbero utilizzare immagini a sfondo sessuale o altro materiale. 
 
